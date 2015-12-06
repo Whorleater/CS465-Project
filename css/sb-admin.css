@@ -231,3 +231,15 @@ ul.alert-dropdown {
 a:hover {
 	text-decoration: none;
 }
+#messages li:nth-child(odd) {
+    text-align: right;
+}
+#messages li {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.date {
+    display: block;
+    opacity: .6;
+    text-align: right;
+}
