@@ -228,3 +228,6 @@ ul.alert-dropdown {
 .iconHover:hover {
     color: ;
 }
+a:hover {
+	text-decoration: none;
+}
