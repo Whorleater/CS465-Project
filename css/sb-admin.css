@@ -243,3 +243,9 @@ a:hover {
     opacity: .6;
     text-align: right;
 }
+#assignments h3 {
+    margin-top: 0;
+}
+#announcements h3 {
+    margin-top: 0;
+}
