@@ -1,4 +1,4 @@
-# Final project for CS 465 Fall 2015
+# Final project for CS 465 - Fall 2015 UIUC
 
 ## [Live Demo](https://whorleater.github.io/CS465-Project/)
 - Some dependencies only load in the demo and not locally due to security reasons
