@@ -6,7 +6,9 @@
 - Peixian Wang, Jerry Chen, Jon Park, Zhili Feng 
 
 #### Images:
-- [Dashboard]()
+- [Dashboard](https://raw.githubusercontent.com/Whorleater/CS465-Project/master/images/dashboard.png)
+- [Grades](https://raw.githubusercontent.com/Whorleater/CS465-Project/master/images/grades.png)
+- [Mobile](https://raw.githubusercontent.com/Whorleater/CS465-Project/master/images/mobile.png)
 
 #### Specific website notes:
 - The website is fully responsive, it will load just as well on mobile as on the desktop page. 
