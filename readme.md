@@ -26,3 +26,4 @@
     - Announcements is your announcements page for specific announcements, color-coded as above. 
     - Contact info is the contact info page for your professors and TA's. Here you can find their emails, office hours, and whatever other contact info they wish to post. 
 - All the buttons on the page are functional, they either lead to specific pages or are intended to do something. The entire UI is mostly functional, only the backend doesn't exist. 
+- The paper prototypes can be found in the paperPrototypes directory
