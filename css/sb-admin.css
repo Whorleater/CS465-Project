@@ -224,6 +224,9 @@ ul.alert-dropdown {
 
 .panel-yellow > a:hover {
     color: #df8a13;
+<<<<<<< HEAD
+}
+=======
 }
 .iconHover:hover {
     color: ;
@@ -266,3 +269,4 @@ a:hover {
 #messagesButtons #buttons button {
     margin-left: 5px;
 }
+>>>>>>> gh-pages

@@ -1,4 +1,7 @@
 
+<<<<<<< HEAD
+.profile
+=======
 .esproj
 .profile
 
@@ -7,3 +10,4 @@
 *.espressostorage
 
 *.espressostorage
+>>>>>>> gh-pages
