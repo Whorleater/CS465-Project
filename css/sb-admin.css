@@ -252,3 +252,17 @@ a:hover {
 #contacts .email {
     display: block;
 }
+#messagesButtons {
+    width: 100%;
+}
+
+#messagesButtons #addPerson {
+    float: left;
+}
+#messagesButtons #buttons{
+
+    float: right;
+}
+#messagesButtons #buttons button {
+    margin-left: 5px;
+}
