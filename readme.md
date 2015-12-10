@@ -2,11 +2,14 @@
 
 ## [Live Demo](https://whorleater.github.io/CS465-Project/)
 - Some dependencies only load in the demo and not locally due to security reasons
-
 - Redesign of the Compass2G website built for UIUC
 - Peixian Wang, Jerry Chen, Jon Park, Zhili Feng 
 
+#### Images:
+- [Dashboard]()
+
 #### Specific website notes:
+- The website is fully responsive, it will load just as well on mobile as on the desktop page. 
 - Entire website is color coded:
     - Light blue means Info: minor notifications such as changes in new homeworks, office hours, etc.
     - Yellow means Warning: Homework due soon, changes in lecture days, etc
