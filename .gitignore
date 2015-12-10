@@ -1,2 +1,13 @@
 
+<<<<<<< HEAD
 .profile
+=======
+.esproj
+.profile
+
+*.espressostorage
+
+*.espressostorage
+
+*.espressostorage
+>>>>>>> gh-pages

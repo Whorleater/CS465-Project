@@ -224,4 +224,49 @@ ul.alert-dropdown {
 
 .panel-yellow > a:hover {
     color: #df8a13;
+<<<<<<< HEAD
 }
+=======
+}
+.iconHover:hover {
+    color: ;
+}
+a:hover {
+	text-decoration: none;
+}
+#messages li:nth-child(odd) {
+    text-align: right;
+}
+#messages li {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.date {
+    display: block;
+    opacity: .6;
+    text-align: right;
+}
+#assignments h3 {
+    margin-top: 0;
+}
+#announcements h3 {
+    margin-top: 0;
+}
+#contacts .email {
+    display: block;
+}
+#messagesButtons {
+    width: 100%;
+}
+
+#messagesButtons #addPerson {
+    float: left;
+}
+#messagesButtons #buttons{
+
+    float: right;
+}
+#messagesButtons #buttons button {
+    margin-left: 5px;
+}
+>>>>>>> gh-pages
