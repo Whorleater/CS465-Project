@@ -13,7 +13,7 @@
 #### Specific website notes:
 - The website is fully responsive, it will load just as well on mobile as on the desktop page. 
 - Entire website is color coded:
-    - Light blue means Info: minor notifications such as changes in new homeworks, office hours, etc.
+    - Light blue means Info: Minor notifications such as changes in new homeworks, office hours, etc.
     - Yellow means Warning: Homework due soon, changes in lecture days, etc
     - Red means Alert: Large exam announcements, heavily weighted homeworks, etc
 - Grades page:
