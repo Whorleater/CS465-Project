@@ -5,3 +5,13 @@
 
 - Redesign of the Compass2G website built for UIUC
 - Peixian Wang, Jerry Chen, Jon Park, Zhili Feng 
+
+#### Specific website notes:
+- Entire website is color coded:
+    - Light blue means Info: minor notifications such as changes in new homeworks, office hours, etc.
+    - Yellow means Warning: Homework due soon, changes in lecture days, etc
+    - Red means Alert: Large exam announcements, heavily weighted homeworks, etc
+- Grades page:
+    - Bars at the top show your current grade, Blue means B+ to A range, Yellow means C to B range, Red means below C range.
+    - First graph is your grade per assignment vs the class average for that assignment
+    - Second graph is your running average grade in the class, this graph takes into account the weights of the assignments. The bars denote the cutoffs for each letter grade.
