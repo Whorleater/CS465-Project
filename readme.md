@@ -14,9 +14,9 @@
 #### Specific website notes:
 - The website is fully responsive, it will load just as well on mobile as on the desktop page. 
 - Entire website is color coded:
-    - Light Blue means __Info__: Minor notifications such as changes in new homeworks, office hours, etc.
-    - Yellow means __Warning__: Homework due soon, changes in lecture days, etc
-    - Red means __Alert__: Large exam announcements, heavily weighted homeworks, etc
+    - __Light Blue__ means __Info__: Minor notifications such as changes in new homeworks, office hours, etc.
+    - __Yellow__ means __Warning__: Homework due soon, changes in lecture days, etc
+    - __Red__ means __Alert__: Large exam announcements, heavily weighted homeworks, etc
 - Grades page:
     - Bars at the top show your current grade, Blue means B+ to A range, Yellow means C to B range, Red means below C range.
     - First graph is your grade per assignment vs the class average for that assignment
